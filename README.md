@@ -13,7 +13,7 @@ Meu primeiro site!
   </p>
 
 # Descrição
-Projeto desenvolvido com a finalidade de consolidar o conhecimento intermediario em HTML5 e CSS3.
+Projeto desenvolvido com a finalidade de consolidar o conhecimento intermediario em HTML5 e CSS3. <br>
 Acesse: petdosdevs.netlify.app
 
 ## 💻 Linguagens e tecnologias utilizadas
