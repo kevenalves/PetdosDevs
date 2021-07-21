@@ -22,7 +22,7 @@ Acesse: petdosdevs.netlify.app
   
 ## Instalação
     
-  - Clonar repositorio
+  - Clonar repositorio <br>
   $ git clone https://github.com/kevenalves/PetdosDevs.git
 
 ## 🏃 Como executar o projeto
