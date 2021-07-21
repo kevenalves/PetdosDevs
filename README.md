@@ -6,7 +6,7 @@ Meu primeiro site!
 
 <p align="center">
   <kbd>
-    <img width="650" style="border-radius: 5px" height="490" src="https://media.giphy.com/media/u3sQcV4W3emfPzEvyB/source.gif" alt="Intro">
+    <img width="650" style="border-radius: 5px" height="490" src="https://media.giphy.com/media/u3sQcV4W3emfPzEvyB/giphy.gif" alt="Intro">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
